@@ -1,6 +1,8 @@
 # rawpar_spss
 Parallel Analysis Program For Raw Data and Data Permutations Use rawpar.sps With SPSS
 
+https://www.youtube.com/watch?v=OEqm18cbalA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
